@@ -1,0 +1,35 @@
+{title:La din vilje skje}
+{subtitle:Krik}
+{key:G}
+{artist:Krik}
+{copyright:Krik}
+
+{comment: Toneart: %k}
+
+{comment: Vers 1}
+[G]Herre [Bm]du som [D]kje[/F#]nner [G]meg
+[G]Lær meg [Bm]be min [D]bønn [/F#]til [G]deg
+[G]uten [Bm]mange [D]fi[/F#]ne [G]ord
+[G]med min [Bm]tvil og [C]med min tro
+[Em]kommer jeg til [D]deg
+
+{start_of_chorus}
+{comment: Refreng}
+La din [G]vilje sk[Bm]je   [A] 
+På [D/F#]jorden som i [G]himmelen [Bm] [A] 
+La [D/F#]ordet ditt få [G]vise [Bm]meg [A] 
+Den rette v[G]ei [Bm] [A]
+{end_of_chorus}
+
+{comment: Vers 2}
+[G]Herre [Bm]du som [D]kje[/F#]nner [G]meg
+[G]La meg [Bm]hvile [D]trykt [/F#]hos [G]deg
+[G]I din [Bm]varme [D]lu[/F#]ne [G]favn
+[G]Med min [Bm]glede [C]mine savn
+[Em]Kommer jeg til [D]deg
+
+{comment: Refreng x2}
+
+{comment: Instrumentalt}
+
+{comment: Refreng }

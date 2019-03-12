@@ -1,0 +1,40 @@
+{title:Unstoppable God}
+{subtitle:Elevation Worship}
+{key:E}
+{artist:Elevation Worship}
+{copyright:Elevation Worship}
+
+[F#] [G#m][E]
+
+{comment:VERSE 1}
+{start_of_verse}
+[F#][G#m]  [E]Heaven thundered,[F#][G#m]    and the [E]world was born
+[F#][G#m]  [E]Faith commanded,[F#][G#m]     and the [E]mountains moved
+[F#][G#m]  [E]Life begins and [F#]ends, in the [G#m]dust You [E]formed
+[F#][G#m]  [E]Fear is losing [F#]ground, to our [G#m]hope in [E]You
+{end_of_verse}
+
+{start_of_chorus}
+{comment:CHORUS}
+    [B]Unstoppable God[C#m]
+    Let Your glory go [G#m]on and on[E]
+    [B] Impossible things [C#m]
+    In Your name they [G#m]shall be done [E]
+{end_of_chorus}
+
+{comment:VERSE 2}
+{start_of_verse}
+[F#][G#m]  [E]Freedom conquered,[F#][G#m]    all our [E]chains undone
+[F#][G#m]  [E]Sin defeated, [F#]Jesus is[G#m]  [E]overcome
+[F#][G#m]  [E]Mercy triumphed [F#][G#m] when the [E]third day dawned
+[F#][G#m]  [E]Darkness was [F#]denied, when the [G#m]stone was [E]gone
+{end_of_verse}
+
+{{PAGE_BREAK}}
+{start_of_verse}
+{comment:BRIDGE}
+[B] Nothing shall be im[B/D#]possible[E]
+Your kingdom reigns un[F#]stoppable[G#m]
+We'll shout Your praise for[B]evermore[E]
+Jesus our God unstoppable
+{end_of_verse}

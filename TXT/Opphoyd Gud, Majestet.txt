@@ -1,0 +1,29 @@
+{title:Opphøyd Gud, Majestet}
+{subtitle: Å, Majestet...}
+{key:A}
+{artist:Author Unknown}
+{copyright:Public Domain}
+
+{comment:Intro}
+
+{comment: Vers 1}
+[E11]Opphøyd [A]Gud, [D/A]Majes[A]tet! [A/C#]
+Himlens [D]Herre, [E11]Du bur i [A]meg. [E11]
+Milde [A]Frelsar,[D/A] kjærast [A]ven,
+Sterk For[D]løysar, som [E11]var og som [A]er! [A/C#]
+Alt eg [D]er, Gud, [E11]fell for Din [F#m7]fot! [E11]
+
+{start_of_chorus}
+{comment: Refreng}
+Å, Majes[A]tet![E/G#] Eg bøyer [F#m7]kne. [F#m7/E]
+Eg legg mitt [D]alt, [A/C#] mi ære, [Bm7]ned. [E11]
+I opphøyd [A]prakt  [E/G] går ei min [F#m7]veg: [F#m7/E]
+Mitt liv for [D]Deg, [Bm7] min [E11]Majes[A]tet!
+{end_of_chorus}
+
+{comment: Vers 2}
+[E11]Himmel, [A]jord, [D/A] lovar [A]Deg. [A/C#]
+Evig kj[D]ærleik, [E11]min himmel[A]veg. [E11]
+Vann na[A]sjonar, [D/A] kvar ei [A]sjel. [A/C#]
+Til Din [D]trone [E11]drog Du meg [A]sæl! [A/C#]
+Alt eg [D]er, Gud, [E11]lovsyng Ditt [F#m7]navn! [E11]

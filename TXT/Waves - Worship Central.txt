@@ -1,0 +1,62 @@
+{title:Waves}
+{subtitle:Worship Central}
+{artist:Worship Central}
+
+{tempo:?}
+{key:C}
+
+{comment: Original Key C}
+{comment: This is in Key [C]}
+
+Intro
+[C][Csus][C][G/B][Am][F]
+[C][Csus][C][G/B][Am][F]
+
+{comment:Verse}
+[C]You are a mighty river 
+You are a flowing stream
+[Am]You are the Fountain of Abundance
+[F]Washing over me
+{comment:|2x|}
+
+{start_of_chorus}
+{comment:Chorus}
+[Csus]Be [C]still [Csus]And [C]know [G/B]I [Am]am
+Be [C]still [Csus]And [C]know [G/B]I [Am]am   [F]
+{end_of_chorus}
+
+{comment:REPEAT VERSE}
+{comment:|2x|}
+
+{comment:REPEAT CHORUS}
+
+{comment:Bridge}
+Let the [C]waves crash [Em]over [Am]me
+[F] Mercy over[C]whelming, [Em]love so [Am]deep   [F]
+
+{comment:Verse}
+[C]You are a mighty river
+You are a flowing stream
+[Am]You are the Fountain of Abundance
+[F]Washing over me
+
+[C]You are a mighty river
+You are a flowing stream
+[Am]You are the Fountain of Abundance
+[F]Washing over me[Csus]
+
+{comment:Interlude}
+[C][Csus][C][G/B][Am][F]
+[C][Csus][C][G/B][Am][F]
+
+{comment:Bridge}
+Let the [C]waves crash [Em]over [Am]me
+[F] Mercy over[C]whelming, [Em]love so [Am]deep  [F]
+
+{comment:Chorus}
+Be [C]still
+[Csus]And [C]know
+[G/B]I [Am]am 
+
+{comment:Outro}
+[F][C][Csus][C][Am]

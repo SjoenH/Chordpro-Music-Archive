@@ -1,0 +1,56 @@
+{title:Broken Vessels}
+{subtitle:Broken Vessels}
+{key:G}
+{artist:Hillsong}
+
+
+{comment:Intro:}
+[Em] //// | [G] //// | [Em] //// | [G] ////
+{comment:(repeat)}
+
+{comment:Verse 1}
+All these [Em]pieces
+Broken and [G]scattered
+In mercy [Em]gathered
+Mended and [G]whole
+Empty [Em]handed
+But not [G]forsaken
+I've been set [D]free
+I've been set [Em]free [D]
+
+{comment:Pre-Chorus 1}
+A[C]mazing grace
+How [D]sweet the sound
+That [Em]saved a wretch like [C]me
+I [C]once was lost
+But [D]now I am found
+Was [Em]blind but now I [C]see
+
+{start_of_chorus}
+{comment:Chorus}
+Oh I can see You [G]now [D]
+Oh I can see the [Em]love in Your [C]eyes
+Laying Yourself [G]down [D]
+Raising up the [Em]broken to [C]life
+{end_of_chorus}
+
+
+{comment:Verse 2}
+You take our [Em]failure
+You take our [G]weakness
+You set Your [Em]treasure
+In jars of [G]clay
+So take this [Em]heart, Lord
+I'll be Your [G]vessel
+The world to [D]see Your life [Em]in me[D]
+
+{comment:Instrumental}
+[G] //// | [D] //// | [Em] //// | [C] ////
+
+{comment:Pre-Chorus 2}
+[G]Amazing grace
+How [D]sweet the sound
+That [Em]saved a wretch like [C]me
+I [G]once was lost
+But [D]now I am found
+Was [Em]blind but now I [C]see

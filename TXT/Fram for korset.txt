@@ -1,0 +1,55 @@
+{title:Fram for korset}
+{subtitle: Elevation Worship, Offisiell oversettelse av Hege Marie Dahl}
+{key:G}
+{artist:Elevation Worship}
+{copyright:Elevation Worship, Hege Marie Dahl}
+
+{comment: Originaltoneart G}
+{comment: Transponert til [G]}
+
+{comment: Intro}
+[G]  [C]
+
+{comment: Vers 1}
+[G] Er du [C]motløs og såret og [G]svak?
+Over[C]veldet av skam og av [Em]tap?
+Jesus, han [C]kaller
+[G] Har du [C]kommet til enden av [G]håp?
+og du leng[C]ter, men alt sier [Em]stopp?
+Jesus, han [C]kaller
+
+{start_of_chorus}
+{comment:Refreng}
+[G] Legg alt fram, [Am7] for korset
+[Em] Guds gode [C]hender venter [G]deg
+Din frihet, [Am7] og frelse
+[Em] Ble kjøpt med [C]Jesus blod for [G]deg
+{end_of_chorus}
+
+{comment: Vers 2}
+[G] Legg [C]igjen tunge byrder, tre [G]fram
+Kom i [C]dag, gjør deg fri fra all [Em]skam
+Jesus, deg [C]kaller
+[G] Dine [C]sorger vil fylles med [G]smil
+Livets [C]aske vil bli til nytt [Em]liv
+Jesus, deg [C]kaller
+
+{comment: Refreng}
+
+{comment: Instrumental}
+[G][Em][C]
+
+{comment: Bro}
+Å for en [G]Frelser
+Stråler av [Em]herlighet
+Syng halle[C]luja, Jesus lever [G]
+Bøy kne for [G]Kongen
+Pris ham med [Em]kjærlighet,
+Syng halle[C]luja, Jesus lever [G]
+
+{comment: Refreng}
+
+{comment: Instrumental}
+[G]   [Am7]   [Em]    [C]
+[G]
+

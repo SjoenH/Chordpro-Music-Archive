@@ -1,0 +1,50 @@
+{title:Håp}
+{subtitle: Acta bibelskole}
+{key:G}
+{artist:Acta Bibelskole}
+
+{comment:Toneart: [G] }
+{comment:Originaltoneart: G}
+
+{comment:Vers 1}
+[Em]   Jeg løfter mitt bli[C]kk fra bølgene om[G]kring
+Og ser bare [D]deg Jesus [Em]
+Du strakk ut din hånd [C] når jeg trengte deg [G]mest
+I min svakhet er du [D]sterk
+
+{comment:Pre-Chorus}
+[C]  I din næ[G]rhet hviler [D]jeg
+Kom la din [Em]fred omgi [C]meg
+Hos deg [G]har jeg funnet [D]håp [C]
+
+{start_of_chorus}
+{comment:Refreng}
+[G]    Du er håpet [D] jeg klamrer meg til
+[Em]   Midt i stormen [C]hviler jeg trygt hos deg
+[G]    Du er den som [D] verner om meg
+[Em]   Midt i stormen [C]hviler jeg trygt hos [Em]deg [C] [G]
+Hos [Em]deg [C] [G]
+{end_of_chorus}
+
+{comment:Vers 2}
+[Em]    Du er mitt anker [C] og mitt hjerte vet [G]
+        Du står alltid fas[D]t Jesus [Em]
+Det finnes ingen stor[C]m som kan skille meg fra [G]
+Din kjærlighet for me[D]g 
+
+{comment: -> Pre-Chorus}
+{comment: -> Refreng}
+
+{comment: Mellomspill}
+[Em] [C] [G] [D]
+[Em] [C] [G] [D]
+
+{comment:Bro (x2)}
+[Em]   Jeg holder fas[C]t ved at dine lø[G]fter for all[D]tid vil bestå
+[Em]    Med blikket fes[C]tet på deg Je[G]sus makter jeg [D]alt!
+
+{comment:-> Refreng}
+
+{comment:Outro}
+Hos [Em]deg  [C] [G]
+Hos [Em]deg  [C] [G]

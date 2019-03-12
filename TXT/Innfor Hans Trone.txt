@@ -1,0 +1,46 @@
+{title:INNFOR HANS TRONE}
+{subtitle:Sean Feucht}
+{key:?}
+{artist:Sean Feucht}
+{copyright:Sean Feucht}
+
+{comment: Toneart: %k}
+
+INNFOR HANS TRONE (160) 
+{comment: INTRO: D øverst}
+{comment:[C#m]/// [B/D#]/// [E]///   [E/G#]/// [A]//////      [F#m]/// [E]///}
+{comment:/// [C#m]///  [B/D#]/// [E]///  [E/G#]////// [A]/////}
+
+{comment:VERS 1 }
+
+[C#m]Kom inn i Hans [E]nærhet [F#m]Innfor Hans [A]trone 
+[C#m]Løft han opp la hver [E]tone gi ære [D]til Ham[A] 
+
+{comment:VERS 2 }
+[E]                       [F#m]         [A]  
+Du vant seier på korset Betalte vår frihet 
+[C#m]            [E]                  [D]   [A]  
+Rettferdige og rene Vi kommer til Deg  
+
+{comment: PRE-KOR}
+[H]                     [C#m]               [A]  
+Alt som er i meg skal love Ditt Hellige navn 
+[H]                  [C#m]                  [A]  
+For Deg Jesus, min Herre for seieren Du vant! 
+
+{comment: => Intro - Vers 1 - Vers 2 - Pre kor}
+
+{comment: KOR}
+  
+Vi gir Deg [E]ære, Lov, Pris og [D]Sang 
+For Deg [A]Jesus, Du er kongen [E]vår 
+La vår [E]lovsang, vår hyllest til Deg [D]være 
+Du er [A]verdig, Jesus, Guds [E]Lam 
+
+{comment: KOR-END}
+           [D]   [A]            [E]               [D]   [A]  
+Jesus Guds Lam  Jesus, Guds Lam, Jesus Guds Lam  
+{comment:=> Pre-kor X2. 1) Piano+pad. 2) Oppe 
+=> Kor X2. 1) Kun trommer 2) Fullt band 
+=> Kor-end X2.5 
+=> Kor nede (Piano+pad)}

@@ -1,0 +1,43 @@
+{title:Sterkt Tårn}
+{key:E}
+{tempo:128}
+
+
+{comment:Verse 1}
+ 
+Ditt [A]navn er som et ste[C#m]rkt tårn [B]
+[A]Og den rettferdige løpe[C#m]r dit [B]
+Ditt [A]navn er som et ste[C#m]rkt tårn [B]
+[A]Og den rettferdige løpe[C#m]r dit [B]
+
+{start_of_chorus}
+{comment:Chorus}
+Og finner sin tilflukt hos [A]deg [C#m] [B]
+Jeg finner min tilflukt hos [A]deg [C#m] [B]
+Jeg finner min til[G#m]flukt hos [A]deg [C#m] [B]
+Jeg finner min tilflukt hos [A]deg, Jesus[C#m] [B]
+{end_of_chorus}
+
+{comment:Verse 2}
+Du bærer våre byrder
+De strevende legger sine ned
+Du bærer våre byrder
+De strevende legger sine ned
+
+{comment:-> Refreng}
+
+{comment:Bridge}
+[A]Midt i motgangen [E]kommer du med håp
+[C#m]Midt i ørkenen [B]spirer det liv opp
+[A]Midt i motgangen [E]kommer du med håp
+I ødemarken veller bekker fram
+x3
+
+[A] [C#m] [B]
+Jeg finner min tilflukt hos deg
+[A] [C#m] [B]
+Jeg finner min tilflukt hos deg Jesus
+
+
+Marie Hognestad
+© 2016 Marie Hognestad

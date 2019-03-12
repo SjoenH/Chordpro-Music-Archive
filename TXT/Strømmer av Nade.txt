@@ -1,0 +1,57 @@
+{title:Strømmer av Nåde}
+{subtitle: David André Østby}
+{key:G}
+{artist:David André Østby}
+{copyright:T&M: David André Østby, Thomas Wilhelmsen}
+
+INTRO:
+| [G]- - - - | [C]- - - - | [Em]- - - - | D - - - |
+| [G/H]- - - - | [C]- - - - | [Em]- - - - | [D]- - - - | [G]-...
+
+
+{comment:VERS 1:}
+[(G)]Strømmer av [G]nåde, Gud du er [C]her
+Himlenes [Em]rike har nå kommet [D]nær
+Syng nå min [G/B]sjel for en kjærlighet [C]stor
+Som ufortjent [Em]skjenkes til alle som [D]tror
+
+{start_of_chorus}
+{comment:REFRENG:}
+[G]Du er god, Du er [C]god
+Og Din nåde varer [Em]evig
+Din nåde varer [D]evig
+[G/B]Du er god, Du er [C]god
+Og Din nåde varer [Em]evig
+Din nåde varer [D]evig
+{end_of_chorus}
+
+{comment:MELLOMSPILL:}
+| [G]- - - - | [C]- - - - | [Em]- - - - | [D]- - - - |
+
+
+{comment:VERS 2:}
+[(D)]Strømmer av [G]nåde, å , Herre vi [C]ber
+Så som i [Em]himlen, la Din vilje [D]skje
+Hatet må vi[G/B]ke, og døden gi [C]slipp
+Vår frelser har ko[Em]mmet, se, alt har blitt [D]nytt
+
+
+{comment:=> REFRENG x2}
+
+{comment:MELLOMSPILL:}
+[G]- - - -| - - - -| - - - -| - - - -
+[C]- - [G] - -|[Em]- - [D]- -|[C]- -[G]- -|[Em]- -[D]- 
+
+
+{comment:BRIDGE x3}
+[C]Ditt er [G]riket,
+[Em]Din er [D]makten
+[C]Din er [G]æren,
+[Em]for evig, [D]amen
+
+
+{comment:OUTRO:}
+| [C]- - [G]- - | [Em]- - [D]- - |
+| [C]- - [G]- - | [Em]- - [D]- - |
+| [C]- - [G]- - | [Em]- - [D]- - |
+| [C]- - [G]- - | [Em]- - [D]- - |[C]-...

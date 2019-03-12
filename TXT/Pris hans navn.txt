@@ -1,0 +1,44 @@
+{title:Å Pris Hans Navn}
+{subtitle:(oh, praise his name)}
+{key:F}
+{artist:Hillsong}
+{copyright:Public Domain}
+
+{comment:INTRO X2 piano,strings}
+{comment:VERS 1}
+Mitt hjerte [F]ser til Golgata,
+hvor Jesu [C]blod ble øst for [Dm]meg
+Jeg ser Hans [Bb]sår, Hans kropp som [F/A]led.
+Min frelser [C]på et kors av [F]tre [Am] [Bb]
+
+{comment:VERS 2 +rolige toms}
+Et siste [F]rop: «Det er fullbrakt!».
+De la ham [C]ned i Josefs [Dm]grav
+Bevoktet av [Bb]soldat og [F/A]stein,
+Guds egen [C]sønn døde for [F]meg  [Am]  [Bb]
+
+{start_of_chorus}
+{comment:REFRENG +bass, litt mere toms}
+Å [F]pris Hans navn for Han [Bb]er vår [F]Gud.
+Å [Dm]pris Hans navn i [C]evighet
+For [F/A]alltid vil sangen [Bb]stige [Dm]opp.
+Vår [Bb]Gud du [C]er vår [F]Gud
+{end_of_chorus}
+
+{comment:VERS 3 øke}
+Å vakre [F]morgen, tredje dag. 
+Vår Herre [C]levende [Dm]igjen
+Så si meg [Bb]død - hvor er din [F/A]brodd? 
+Vår frelser [C]JESUS har stått [F]opp!
+
+{comment: => REFRENG oppe}
+
+{comment: => VERS 4 nede}
+Vi skal få [F]se Hans prakt igjen, 
+Hans lys skal [C]tvinge mørket [Dm]hen
+Da skal vi [Bb]være i Hans [F/A]glans, 
+Et liv, en [C]evighet med [F]Han!
+
+{comment: MELLOMSPILL X2 fullt band, øke}
+{comment: => REFRENG (x2) (Oppe)}
+{comment: OUTRO}

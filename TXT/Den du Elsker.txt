@@ -1,0 +1,77 @@
+{title:Den du elsker}
+{key:F}
+{tempo:128}
+
+{comment:Intro (x2)}
+[F] [C] [G] [Am]
+[F] [C] [G]
+
+{comment: Vers 1 (x2)}
+[F]  Det er [C]ingen skam
+[G]  Jesus [Am]tok alt sammen
+[F]  Det er [C]ingen skam   [G]
+[F]  Det er [C]ingen fordømmelse
+[G]  For den som er i [Am]Jesus Kristus
+[F]  Det er [C]ingen skam   [G]
+
+{start_of_chorus}
+{comment:Refreng 1 (x2)}
+Jeg er [F]den du elsker,[C]
+jeg er [G]den du ga ditt [Am]liv for
+Jeg er [F]den du elsker,[C] Gud[G]
+{end_of_chorus}
+
+{comment:Mellomspill}
+[F] [C] [G] [Am]
+[F] [C] [G]
+
+{comment:Vers 2 (x2)}
+Og hvis [F]Gud er [C]for meg
+Hvem kan [G]da være [Am]imot meg
+Hvem kan vel an[F]klage [C]
+Den som Gud har [G]utvalgt
+Og hvis Kristus [F]døde og sto [C]opp
+Og alltid [G]går i forbønn for [Am]oss
+Hvem kan vel for[F]dømme [C]
+Den som Gud fri[G]kjenner
+
+{start_of_chorus}
+{comment:Refreng 2 (x2)}
+[F]Halleluja min [C]sjel er fri
+Min [G]trellestand er [Am]nå forbi
+Da jeg be[F]kjente mine synder, [C]vasket du meg ren
+Og [G]jeg fikk ta imot din rettferdighet
+{end_of_chorus}
+
+{comment:Mellomspill}
+[F] [C] [G] [Am]
+[F] [C] [G]
+
+{comment:Bridge (x2)}
+[F]    Hvis din kjærlighet [C]er som en elv
+Jeg sier [G]øs ut, øs det [Am]utover meg
+Jeg er et [F]tomt kar
+[C]Kom og fyll meg [G]opp
+[F]    Mitt hjertet er som et [C]øde land
+hvis jeg [G]ikke drikker av det [Am]levende vann
+Du er den [F]eneste som kan [C]fylle meg [G]opp
+
+{comment:Bridge Fortsettelse (x2)}
+       F              C
+Og du fyller meg opp hver gang
+           G            Am
+Når jeg kommer til deg, hver gang
+        F             C         G
+Ja du fyller meg opp hver gang
+
+{start_of_chorus}
+{comment:Refreng 2 (x2)}
+[F]Halleluja min [C]sjel er fri
+Min [G]trellestand er [Am]nå forbi
+Da jeg be[F]kjente mine synder, [C]vasket du meg ren
+Og [G]jeg fikk ta imot din rettferdighet
+{end_of_chorus}
+
+{comment:Outro (x4)}
+[F] [C] [G] [Am]
+[F] [C] [G]

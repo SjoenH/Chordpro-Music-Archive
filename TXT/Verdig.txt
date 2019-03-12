@@ -1,0 +1,36 @@
+{title:Verdig}
+{key:A}
+{artist:Sara Elise Stjernstrøm}
+{tempo:74}
+
+{comment:Intro}
+[A]
+
+{comment:Vers}
+[D]Du har vekket en [F#m]sang
+En uslukkelig [A]tilbedelse
+I [E]dypet av mitt hjerte
+Til [D]Deg vil jeg gi
+Mitt [F#m]fokus min tid
+Hver [A]dag vil jeg
+[D]Rette mitt blikk mot [E]Deg
+
+{comment:Repeter Vers}
+
+{comment:Refreng}
+{start_of_chorus}
+For [F#m]Jesus jeg har kommet [D]for å
+Øse ut mitt [A]hjerte for Deg[E]
+Og [F#m]i beundring løfter [D]jeg
+Mine hender [A]opp til Deg[E]
+{end_of_chorus}
+
+{comment:->Vers -> Refreng}
+
+{comment:Bridge}
+Du er [E]verdig all min [F#m]lovsang
+Du er [D]verdig alt [A]jeg er
+
+{comment:Outro}
+Med [E]alt som er i meg vil jeg [F#m]prise Deg
+La [D]alt som er i meg få [E]ære Deg

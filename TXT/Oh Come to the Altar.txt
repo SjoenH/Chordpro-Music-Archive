@@ -1,0 +1,60 @@
+{title:Oh Come to the Altar}
+{subtitle: Elevation Worship}
+{key:G}
+{artist:Elevation Worship}
+{copyright:Elevation Worship}
+
+{comment: Original Key G}
+{comment: This is in Key [G]}
+
+{comment: Intro}
+[G]  [C]
+
+{comment: Verse 1}
+[G] Are you [C]hurting and broken wit[G]hin?
+Over[C]whelmed by the weight of your [Em]sin?
+Jesus is [C]calling.
+[G] Have you [C]come to the end of your[G]self?
+do you th[C]irst for a drink from the [Em]well?
+Jesus is [C]calling.
+
+
+{start_of_chorus}
+{comment:Chorus}
+[G] O come to, [Am7] the altar,
+[Em] the Father's arms are [C]open [G]wide, 
+forgiveness, [Am7] was bought with, 
+[Em] the precious blood of [C]Jesus [G]Christ.
+{end_of_chorus}
+
+
+{comment: Verse 2}
+[G] Leave [C]behind your regrets and [G]mistakes,
+come to[C]day there’s no reason to [Em]wait,
+Jesus is [C]calling.
+[G] Bring your s[C]orrows and trade them for [G]joy,
+from the a[C]shes a new life is [Em]born,
+Jesus is [C]calling.
+
+{comment: Chorus}
+
+{comment: Instrumental}
+[G][Em][C]
+
+{comment: Bridge}
+Oh what a [G]Saviour,
+isn't He [Em]wonderful,
+sing halle[C]lujah Christ is risen, [G]
+bow down [G]before Him,
+for He is [Em]Lord of all,
+sing halle[C]lujah Christ is risen. [G]
+
+{comment: Chorus}
+
+{comment: Instrumental}
+[G]   [Am7]   [Em]    [C]
+[G]
+
+{comment: Outro}
+[G] Bear your [C]cross as you wait for the [G]crown
+Tell the [F]world of the [C]treasure you [G] found [C] [G] [C] [G]

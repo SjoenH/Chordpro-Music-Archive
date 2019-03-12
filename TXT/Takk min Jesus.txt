@@ -1,0 +1,30 @@
+{title:Takk min Jesus}
+{subtitle: Thank you Jesus - Hillsong Worship}
+{key:G}
+{artist:Orig. Hillsong}
+
+{comment:Toneart: [G] }
+{comment:Originaltoneart: G}
+
+{comment:INTRO}
+{comment:Vers 1}
+[G]Evig er din nåde, [D]mer enn [C]nok for [G]meg
+Din [G]godhet og din kjærlighet [D]Skylder [C]over [G]meg
+
+{start_of_chorus}
+{comment:Refreng}
+Takk min [C]Jesus, Du satt meg [G]fri
+Du min [C]frelser, Har gitt meg [G]liv
+{end_of_chorus}
+
+{comment:Vers 2}
+[G]Ta mitt liv, alt jeg eier. [D]Bruk meg, [C]ja jeg [G]ber
+[G]Hele meg vil jeg overgi, ditt [D]rike [C]vil jeg [G]se
+
+{comment:->Refreng}
+
+{comment:Bro}
+[C]  Du åpnet mitt bli[D]kk, Du ga meg nytt li[Em]v
+Jeg elsker de[G/B]g. Jeg elsker de[C]g
+[C]  Du lever i me[D]g, Jeg tilhører de[Em]g
+Jeg elsker de[G]g. Jeg elsker de[C]g

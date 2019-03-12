@@ -1,0 +1,45 @@
+{title:Graven er Tom}
+{key:F}
+{subtitle: David André Østby}
+{artist: David André Østby}
+{tempo:180}
+
+{comment: Toneart [F], Tempo: 180}
+
+{comment:Vers 1}
+{comment: El-git spiller [F] ut første vers}
+[F]Jesus ble pint helt til [C]døden 
+[Bb]Valgte å blø for min [F]synd 
+[F]Han som var ren ble til [C]skamme 
+[Bb]Gud gjort til spott for min [F]skyld 
+
+
+{start_of_chorus}
+{comment:Refreng}
+Graven er [Bb]tom, Jesus lever nå 
+I [Dm]ære og i makt 
+Evi[C]g døden [Gm]er Ham underlagt[Dm]
+Graven er [Bb]tom, Jesus lever nå 
+I [Dm]ære og i makt 
+Evi[C]g døden [Gm]er Ham underlagt[Dm] [C]
+{end_of_chorus}
+
+{comment:Vers 2}
+[F]Solen står opp over [C]hagen 
+[Gm]Dagen da død ble til [Dm]liv 
+[Bb]Jesus er ikke i [C]graven 
+[Gm]Natten er [Dm]evig [C/E]forbi 
+
+{comment:->Refreng}
+
+{comment:Instrumental}
+[F] [C] [Gm] [Dm] [C/E]  
+
+{comment:Bridge}
+[F]Se Han som døde, Han [C]lever 
+[Gm]Stråler i ære og [Dm]glans
+[Bb]Kraften som overvant [C]døden 
+[Gm]Lever i dem som er [Dm]Ha[C]ns
+
+
+{comment:->Refreng}

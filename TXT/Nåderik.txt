@@ -1,0 +1,59 @@
+{title:Nåderik}
+{subtitle:David André Østby}
+{key:?}
+{artist:David André Østby}
+{copyright:David André Østby}
+
+{comment: Toneart: %k}
+
+{comment: Intro // Mellomspill // Outro}
+[Gm][Gm][Eb][Eb][Bb][Bb][Bb][Bb] x2 
+
+{comment: Vers 1}
+[Gm]Gud, din tål[Eb]modighet [Bb]kan ikke måles 
+[Gm]Jeg har blitt [Eb]tilgitt av [Bb]deg  
+[Gm]Fylt med en [Eb]kjærlighet [Bb]ingen kan slokke
+[Gm]Har du [Eb]elsket [F]meg 
+
+{comment: Vers 2}
+[Gm]Gud, din barmhjertighet har ingen
+grenser
+Nåde forbi min forstand
+Jeg har fått plass i ditt bankende
+hjerte
+Du, min redningsmann 
+
+{start_of_chorus}
+{comment: Refreng}
+Gud du er [Gm]nå - [Eb]de - [Bb]rik 
+Helt ufortjent får jeg være [Gm]barn av [F]deg 
+Gud du er [Gm]nå - [Eb]de - [Bb]rik 
+[Eb]For alltid er du nå - de - rik 
+{end_of_chorus}
+
+{comment: Mellomspill}
+[Gm][Gm][Eb][Eb][Bb][Bb][Bb][Bb] x2 
+
+{comment: Vers 3}
+Ingen kan måle din kjærlighets dybde
+Bunnløs som veldige hav
+Dypt i din nåde har jeg lagt min
+byrde
+Skylden er betalt 
+
+{comment: Refreng}
+
+{comment: Mellomspill}
+[Gm][Gm][Eb][Eb][Bb][Bb][Bb][Bb] x2 
+
+{comment: Bro }
+Din nåde [Eb]slipper aldri taket[Gm] 
+Din nåde den går [Bb]aldri tom [Fadd4] 
+Din nåde kjenner [Cm]ingen ende [Eb]
+Din nåde den er [Gm]min 
+[Din nåde den er [Fadd4]min  [F]
+
+{comment: Refreng }
+
+{comment: Outro }
+[Gm][Gm][Eb][Eb][Bb][Bb][Bb][Bb] x2 

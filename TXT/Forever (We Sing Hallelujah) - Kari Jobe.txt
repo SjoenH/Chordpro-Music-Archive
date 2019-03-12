@@ -1,0 +1,69 @@
+{title:Forever}
+{subtitle:We Sing Hallelujah}
+{key:Ab}
+{artist:Kari Jobe}
+{tempo:72}
+
+{comment:Toneart [Ab]}
+
+{comment:Intro}
+[Ab] //// [Eb] //// [Bbm7] //// [Db] ////
+
+Verse 1
+[Ab]   The moon and stars they [Ebadd4]wept
+The morning sun was [Fm]dead
+The Savior of the [Db]world was fall[Ab]en                     
+His body on the [Ebadd4]cross 
+His blood poured out for [Fm]us
+The weight of every [Db]curse upon [Ab]Him
+
+{comment:REPEAT INTRO}
+
+{comment:Verse 2}
+[Ab]   One final breathe He [Ebadd4]gave 
+As heaven looked [Fm]away
+The Son of God was [Db]laid
+in dark[Ab]ness                             
+A battle in the [Ebadd4]grave
+The war on death was [Fm]waged
+The power of hell for[Db]ever broken
+
+
+{comment:Pre-Chorus}                             
+[Ab]   The ground began to [Eb]shake 
+The stone was rolled [Fm7]away
+His perfect love could [Db]not be overcome
+[Ab/C]   Now death where is your [Eb]sting
+Our resurrected [Fm7]King
+Has rendered you de[Db]feated
+
+{start_of_chorus}
+{comment:Chorus}
+For[Absus]ever [Ab]He is [Ebadd4]glorified
+For[Fm7]ever He is [Db2]lifted high
+For[Absus]ever [Ab]He is [Ebadd4]risen
+He is a[Fm7]live, He is a[Db2]live
+{end_of_chorus}
+
+{comment:REPEAT PRE-CHORUS}
+{comment:REPEAT CHORUS 2X}
+
+{comment:Breakdown}
+[Ab] //// [Eb] //// [Fm7] //// [Db] ////
+[Ab] //// [Eb] //// [Fm7] //// [Db] ////
+
+
+{comment:Bridge 1}
+[Ab]   We sing Halle[Ebadd4]lujah
+We sing Halle[Fm]lujah
+We sing Halle[Db]lujah
+The Lamb has over[Ab]come
+(REPEAT 4 MORE TIMES)
+
+{comment:Bridge 2}
+[Ab]   We sing Halle[Ebadd4]lujah
+We sing Halle[Bbm]lujah
+We sing Halle[Db]lujah
+The Lamb has over[Db]come
+
+{comment:REPEAT CHORUS 2 TIMES}

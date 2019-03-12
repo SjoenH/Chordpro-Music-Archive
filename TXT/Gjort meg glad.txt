@@ -1,0 +1,34 @@
+{title:Gjort meg Glad}
+
+{key:A}
+{artist:Ungfila}
+{copyright:Public Domain}
+
+{comment:Verse 1}
+[D]Jeg vil evig love [A]Herren, [D]Alltid stole helt på [A]Ham
+[D]Han har satt meg fri fra all [A]frykt, [D]Han har satt min fot på stødig [A]fjell
+
+{comment:Pre-chorus 1}
+[D]Alltid står jeg fast, til [Bm7]Herren vil jeg [Esus]si
+
+{start_of_chorus}
+{comment:Chorus}
+    Du er mitt [A]skjold, min [Bm7]del, min [D]styrke, [Esus4]forløser            
+    Min [A]tilflukt, sterke [A/C#]festning. Tilst[D]ede med din [Esus4]hjelp
+    I nødens stund
+{end_of_chorus}
+
+{comment:Interlude}
+[D]        [A]
+
+{comment:Verse 2}
+[D]Hvem har jeg i himlen lik [A]Deg
+[D]Du er den jeg lengter etter [A]Gud
+
+{comment:Pre-chorus 2}
+[D]Du har gjort meg glad, til [Bm7]Herren vil jeg [Esus]si
+
+{comment:-> Chorus}
+
+{comment:Bridge}
+Min [Bm]styrke,  [A/C#]          Min [F#m]tilflukt [Esus4]

@@ -1,0 +1,53 @@
+{title:Alleluia}
+{subtitle:Jesus Culture}
+{artist:Jesus Culture}
+{tempo:70}
+{key:F}
+
+{comment: Original Key F}
+{comment: This is in Key [F]}
+
+{comment:Intro}
+[F][Bb2/F][F][Bb2/F]
+
+{comment:Verse 1}
+[F]Father, we have [Bb2/F] come
+To bow [Dm7]down [C]in [Bb2]worship
+[F]Lifting up our [Bb2/F]hearts, we 
+Bow [Dm7]down [C]in [Bb2]prayer
+
+{start_of_chorus}
+{comment:Chorus}
+[Bb2]Alle[F]lu[Csus]ia
+[Bb2]Lover [F]of our [Csus]souls
+[Bb2]Alle[F]lu[Csus]ia
+With all of heav[Gm7]en [F/A]we [Csus]sing
+{end_of_chorus}
+
+{comment:Interlude}
+[F][Bb2/F][F][Bb2/F]
+
+{comment:Verse 2}
+[F]Bright and morning [Bb2/F]Star
+Your eyes [Dm7]blaze [C]like [Bb2/F]fire
+[F]Shining like the [Bb2/F]sun
+You're our [Dm7]one [C]de[Bb2]sire
+
+{comment:Chorus 2x}
+
+{comment:Bridge 1}
+
+[Bb]All the angels [F]cry out
+[C]”Holy is the [Dm7]Lord!" [C]
+[Bb]All the earth re[F]plies,
+[C]”Holy are [Dm7]You!” [C]
+{comment:|2x|}
+
+{comment:Bridge 2}
+[Bb]Alleluia! [C]Alle[Csus]lu[C]ia!
+[Bb/D]Alleluia! [C]Holy are [F/A]You!
+
+
+Writer(s): Chris Quilala, Ian McIntosh, Jeffrey Kunde, Jeremy Riddle 
+CCLI #: 6514578
+Scripture Reference(s): Luke 2:13-14, Isaiah 6

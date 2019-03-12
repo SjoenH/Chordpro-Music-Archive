@@ -1,0 +1,45 @@
+{title:Jesus at the Center}
+{key:D}
+{artist:?}
+{tempo:?}
+
+{comment:Key: [D]}
+
+{comment:Intro}
+[D]  [Em7]  [D/F#]  [G]  :||
+
+{comment:Verse 1}
+[D]Jesus at the [Em7]center of it [D/F#]all                       
+[G]Jesus at the [D]center [A4]of it [A]all                             
+From beg[G]inning to the [D]end
+It will [A]always be, it's [Bm7]always [A]been You [G]Jesus, [A]Jesus
+
+{start_of_chorus}
+{comment:Chorus}
+[D/F#]Nothing else [G]matters, [Em7]nothing in this world will [D]do                                     
+[Bm7]'Cause Jesus You're the [D/F#]center, [G]everything revolves around [Em7]You 
+Jesus [A]You, at the center of it [D]all, [Em7][D/F#][G]
+At the center of it [D]all[Em7][D/F#][G]
+{end_of_chorus}
+
+{comment: Verse 2}
+Jesus be the center of my life
+Jesus be the center of my life
+From beginning to the end
+It will always be, it's always been You Jesus, Jesus
+
+{comment:Bridge}
+From my [A]heart to the Heavens, [Bm7]Jesus be the [D]center
+It's [G]all about You, it's [A]all about You  
+
+{comment: Verse 3}
+Jesus be the center of Your church
+Jesus be the center of Your church
+And every knee will bow
+And every tongue shall confess You Jesus, Jesus
+[G]Jesus, [A]Jesus, [G]Jesus, [A]Jesus, [G]Jesus, [A]Jesus
+
+{comment:Bridge}
+From my [A]heart to the Heavens, [Bm7]Jesus be the [D]center
+It's [G]all about You, it's [A]all about You   {comment:x3}
+It's [G]all about You, [A]all about [G]You, [A]Jesus [G][A][G]

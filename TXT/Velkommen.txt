@@ -1,0 +1,53 @@
+{title:Velkommen}
+{subtitle: David André Østby}
+{key:D}
+{artist:David André Østby}
+{copyright:T&M: David André Østby, Stig-Øyvind Blystad}
+
+{comment:Toneart: [D] }
+{comment:Originaltoneart: D}
+
+{comment:INTRO}
+|[D]- - - - |[D]- - [Em]- - | [Bm]- - - -| [Bm]- - [G]- - | (x2) 
+
+{comment:VERS 1}
+[D]Gjør døren høy, gjør [Em]porten [Bm]vid   [G]   
+[D]Vår Seierherre [Em]kommer [Bm]hit         [G]
+[D]Gi kongen rom i [Em]sjel og [Bm]sinn      [G]   
+[D]La Jesus Kristus [Em]komme [Bm]inn
+
+{start_of_chorus}
+{comment:REFRENG}
+Over [G]alt og alle er du [Bm]Gud
+I himmel og på [A]jord
+[D/F#]Du er [G]velkommen
+{end_of_chorus}
+
+{comment:MELLOMSPILL:}
+|[D]- - - - |[D]- - [Em]- - | [Bm]- - - -| [Bm]- - [G]- - | (x2) 
+
+
+{comment:VERS 2}
+[D]Rydd vei for Herren, [Em]slipp Ham [Bm]fram   [G]
+[D]Bøy kne for troens [Em]opphavs[Bm]mann   [G]
+[D]En dag skal alle [Em]folk og [Bm]land   [G]
+[D]Bekjenne Jesu [Em]store [Bm]navn
+
+{comment:REFRENG x2}
+
+{comment:BRIDGE}
+[A]Kron Ham [Bm]med din [G]lovsang
+[D]Kongen kommer
+[A]Se, det [Bm]er en [G]ny dag
+[D]Livet flommet
+[A]Hjerter [Bm]vendes [G]til Ham
+[D]La Han slippe [A]inn
+[Bm]La Han slippe [G]inn
+
+
+{comment:=> REFRENG x2}
+
+
+{comment:outro}
+|[D]- - - - |[D]- - [Em]- - | [Bm]- - - -| [Bm]- - [G]- - | (x2) 
+

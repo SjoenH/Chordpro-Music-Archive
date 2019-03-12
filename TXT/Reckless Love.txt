@@ -1,0 +1,43 @@
+{title:Reckless Love}
+{key: D#}
+{tempo: 166}
+{artist: Bethel}
+
+{comment:Key [D#]}
+
+{comment:Intro:}
+[D#m][C#][B][F#]
+[D#m][C#][B][F#]
+
+{comment:Verse 1}
+[D#m]Before I spoke a [C#]word, You were singing [B]over me
+[D#m]You have been [C#]so, so good to [B]me
+[D#m]Before I took a [C#]breath, You breathed Your [B]life in me
+[D#m]You have been [C#]so, so kind to [B]me
+
+{start_of_chorus}
+{comment:Chorus}
+Oh, the [D#m]overwhelming, [C#]never-ending, [B]reckless love of [F#]God
+Oh, it [D#m]chases me down, [C#]fights ‘til I’m found, [B]leaves the ninety-[F#]nine
+I couldn’t [D#m]earn it, I don’t de[C#]serve it, still You [B]give Yourself [F#]away
+Oh, the [D#m]overwhelming, [C#]never-ending, reck[B]less love of [F#]God
+{end_of_chorus}
+
+
+{comment:Verse 2}
+[D#m]When I was Your [C#]foe, still Your love foug[B]ht for me
+[D#m]You have been [C#]so, so good to [B]me
+[D#m]When I felt no [C#]worth, You paid it all for me   [B]
+[D#m]You have been [C#]so, so kind to [B]me
+
+{comment:Bridge. First time through all on the [D#m]}
+[D#m]There’s no shadow You won’t [C#]light up
+Mountain You won’t cl[B]imb up
+Coming after [F#]me
+[D#m]There’s no wall You won’t [C#]kick down
+Lie You won’t t[B]ear down
+Coming after [F#]me
+
+CCLI# 7089641
+written by Cory Asbury, Caleb Culver, Ran Jackson
+© 2017 Bethel Music Publishing (ASCAP) / Watershed Publishing Group (ASCAP) (adm. by Watershed Music Group) / Richmond Park Publishing (BMI). All Rights Reserved. Used by Permission.
