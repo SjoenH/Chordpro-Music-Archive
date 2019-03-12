@@ -25,16 +25,16 @@ cd TXT
 #For hver fil som er av type .txt, 
 #generer pdf-er vha. chordpro-programmet
 for f in *.txt; do
-    chordpro $f    
-    chordpro $f -x 1 -o "${f%.txt}+1.pdf"
-    chordpro $f -x 2 -o "${f%.txt}+2.pdf"
-    chordpro $f -x 3 -o "${f%.txt}+3.pdf"
-    chordpro $f -x 4 -o "${f%.txt}+4.pdf"
-    chordpro $f -x 5 -o "${f%.txt}+5.pdf"
-    chordpro $f -x 6 -o "${f%.txt}+6.pdf"
-    chordpro $f -x 7 -o "${f%.txt}+7.pdf"
-    chordpro $f -x 8 -o "${f%.txt}+8.pdf"
-    chordpro $f -x 9 -o "${f%.txt}+9.pdf"
+    chordpro $f -x 0 -o "${f%.txt}+00.pdf"
+    chordpro $f -x 1 -o "${f%.txt}+01.pdf"
+    chordpro $f -x 2 -o "${f%.txt}+02.pdf"
+    chordpro $f -x 3 -o "${f%.txt}+03.pdf"
+    chordpro $f -x 4 -o "${f%.txt}+04.pdf"
+    chordpro $f -x 5 -o "${f%.txt}+05.pdf"
+    chordpro $f -x 6 -o "${f%.txt}+06.pdf"
+    chordpro $f -x 7 -o "${f%.txt}+07.pdf"
+    chordpro $f -x 8 -o "${f%.txt}+08.pdf"
+    chordpro $f -x 9 -o "${f%.txt}+09.pdf"
     chordpro $f -x 10 -o "${f%.txt}+10.pdf"
     chordpro $f -x 11 -o "${f%.txt}+11.pdf"
 done
