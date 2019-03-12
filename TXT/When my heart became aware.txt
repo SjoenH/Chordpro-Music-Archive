@@ -1,0 +1,56 @@
+{title:When my heart became aware}
+{subtitle:Sean Feucht}
+{key:C}
+{artist:Sean Feucht}
+{copyright:Sean Feucht}
+
+{start_of_verse: Verse 1}
+[F]One thing I [C]ask
+[F]That's what I [C]seek, that [F]I may dwell [Am7]in Your [G]house
+[F]All of my [C]days, [F]I'll stand [C]amazed
+Your [F]glory is [Am7]stagge[G]ring
+{end_of_verse: Verse 1} 
+
+{start_of_verse: Chorus}
+{soc}
+Oh just to [F]gaze, 
+[Am]on Your [G]beauty [F]Lord [C]
+[G]I was [F]made, 
+to [Am]be in this [G]moment right [F]now
+[C][G]
+{eoc}
+{end_of_verse: Chorus}
+
+{start_of_verse: Verse 2}
+My [F]lasting re[C]quest
+Is [F]to know Your [C]heart
+Like [F]no man has [Am7]ever [G]known
+[F]Into the [C]depth, where I [F]lose all [C]regret
+[F]Perfectly [Am7]lost in Your [G]love
+{end_of_verse: Verse 2}
+
+{comment:-> Chorus x2}
+
+{start_of_verse: Bridge}
+[Am]    Take me [F]back
+To [C]where it all [G]started
+[Am]    To the [F]things we did at [C]first [G]
+[Am]    Bring me [F]close so [C]I can re[G]member
+When my [Am]heart became [F]aware [C] [G]
+{end_of_verse: Bridge}
+
+{comment: Repeat Bridge}
+
+{start_of_verse: Tag}
+When my [Am]heart became [F]aware [C] [G]
+When my [Am]heart became [F]aware [C] [G]
+When my [Am]heart became [F]aware [C] [G]
+[C]
+{end_of_verse: Tag}
+
+{start_of_verse: Outro}
+Oh just to [F]gaze, 
+[Am]on Your [G]beauty [F]Lord [C]
+[G]I was [F]made, 
+to [Am]be in this [G]moment right [F]now
+{end_of_verse: Outro}
