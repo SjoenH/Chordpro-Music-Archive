@@ -26,17 +26,17 @@ cd TXT
 #generer pdf-er vha. chordpro-programmet
 for f in *.txt; do
     chordpro $f    
-    chordpro $f -x 1 -o "$f+1.pdf"
-    chordpro $f -x 2 -o "$f+2.pdf"
-    chordpro $f -x 3 -o "$f+3.pdf"
-    chordpro $f -x 4 -o "$f+4.pdf"
-    chordpro $f -x 5 -o "$f+5.pdf"
-    chordpro $f -x 6 -o "$f+6.pdf"
-    chordpro $f -x 7 -o "$f+7.pdf"
-    chordpro $f -x 8 -o "$f+8.pdf"
-    chordpro $f -x 9 -o "$f+9.pdf"
-    chordpro $f -x 10 -o "$f+10.pdf"
-    chordpro $f -x 11 -o "$f+11.pdf"
+    chordpro $f -x 1 -o "${f%.txt}+1.pdf"
+    chordpro $f -x 2 -o "${f%.txt}+2.pdf"
+    chordpro $f -x 3 -o "${f%.txt}+3.pdf"
+    chordpro $f -x 4 -o "${f%.txt}+4.pdf"
+    chordpro $f -x 5 -o "${f%.txt}+5.pdf"
+    chordpro $f -x 6 -o "${f%.txt}+6.pdf"
+    chordpro $f -x 7 -o "${f%.txt}+7.pdf"
+    chordpro $f -x 8 -o "${f%.txt}+8.pdf"
+    chordpro $f -x 9 -o "${f%.txt}+9.pdf"
+    chordpro $f -x 10 -o "${f%.txt}+10.pdf"
+    chordpro $f -x 11 -o "${f%.txt}+11.pdf"
 done
 # For hver fil som er en pdf, flytt den til PDF-mappen.
 for f in *.pdf; do 
